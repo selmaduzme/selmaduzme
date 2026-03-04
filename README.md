@@ -1,8 +1,9 @@
 # 👩‍💻 Selma Düzme | Software Engineering Student
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=25&duration=1800&pause=600&color=00CED1&background=0D1117&center=true&vCenter=true&width=900&lines=HELLO+WORLD;SOFTWARE+ENGINEERING+STUDENT;LEARNING+TO+BUILD+SYSTEMS;WEB+%7C+AI+%7C+CYBERSECURITY" />
+  <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&size=26&duration=1600&pause=600&color=FF3131&background=000000&center=true&vCenter=true&width=950&lines=HELLO+WORLD...;SOFTWARE+ENGINEERING+STUDENT;LEARNING+TO+BUILD+STRONG+SYSTEMS;WEB+%7C+AI+%7C+CYBERSECURITY" />
 </p>
+
 
 > Code. Learn. Improve. Repeat.
 
