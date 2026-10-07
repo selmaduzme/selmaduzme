@@ -11,7 +11,7 @@
 
 ## 👋 About Me
 
-I am **Selma Düzme**, a **1st-year Software Engineering student** who is focused on learning how software systems are designed, developed, and secured.
+I am **Selma Düzme**, a **2st-year Software Engineering student** who is focused on learning how software systems are designed, developed, and secured.
 
 My main areas of interest include:
 - 🌐 Web Development  
@@ -25,7 +25,7 @@ I am currently in the learning phase, aiming to strengthen my **logic, problem-s
 ## 🎓 Education
 
 - **Software Engineering**  
-  *Undergraduate — 1st Year*
+  *Undergraduate — 2st Year*
 
 ---
 
